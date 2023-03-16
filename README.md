@@ -8,7 +8,7 @@ Looking for an internship in web development can be an exciting and challenging 
 
 * 🌍  I'm based in Khonkaen, Thailand
 * ✉️  You can contact me at [teerapat.bo@kkumail.com](mailto:teerapat.bo@kkumail.com)
-* 🧠  I'm learning Three.js
+* 🧠  I'm learning Three.js, Next.js
 
 ### Skills
 
